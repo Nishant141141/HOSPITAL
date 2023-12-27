@@ -118,7 +118,7 @@
     margin-bottom: 12px;
     font-weight: bold;
     color: #000000;
-    font-size: 1.2rem;
+    font-size: 19.2px{};
 }
 .line {
     border-bottom: 1px solid #ccc;
@@ -386,11 +386,11 @@ input[type="submit"]:hover {
 }
 .notice h1 {
     color: #e53935;
-    font-size: 2.5em;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 .notice p {
     color: #333;
-    font-size: 1.2em;       
+    font-size: 19.2px;       
     margin-bottom: 15px;
 }        
